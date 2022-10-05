@@ -1,0 +1,9 @@
+touch .gitignore
+git init
+git add .
+git commit -m "Initial Commit"
+git status 
+ssh-keygen -t rsa -b 4096 -C "mrajat00@gmail.com"
+tail <path>
+git remote add origin <url>
+git push origin master
